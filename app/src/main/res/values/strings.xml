@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prework</string>
+    <string name="tiff_intro">Hi! My name is Tiffany. I love cats (as you can probably tell) and Smiskis.</string>
+    <string name="button_text">Say hello!</string>
+</resources>
